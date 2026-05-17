@@ -23,6 +23,8 @@ A collection of custom, minimal, and high-contrast color schemes for modern Neov
 
 * **myti**: Raw and real
 
+---
+
 <img width="1366" height="100%" alt="20260517_154455" src="https://github.com/user-attachments/assets/b0e9c787-c8d7-4cd4-9486-3ad1c3673370" />
 
 <img width="1366" height="100%" alt="20260517_154641" src="https://github.com/user-attachments/assets/2646f2f0-b7bd-40c9-a07f-9f9b4bf58268" />
