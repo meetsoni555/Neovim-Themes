@@ -78,6 +78,12 @@ To make it permanent, add this line to the bottom of your main `init.lua`:
 vim.cmd("colorscheme crackedbones")
 ```
 
+```lua 
+vim.cmd.colorscheme("crackedbones")
+vim.cmd.colorscheme("myti")
+
+```
+
 
 ## Features & Recommendations
 * **Top-Plugins Support**: All the above themes supports the top neovim plugins . 
