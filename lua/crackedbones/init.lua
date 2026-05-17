@@ -46,11 +46,11 @@ local colors = {
   --   
 -- -- Zenbones x Rosé Pine (Muted Warm Base with a Tiny Bright Lift)
     -- 
-   terracotta    = "#bebdc9", -- Barely brightened rose-ash clay (Statements, Errors, Keywords)
+   terracotta    = "#c4c3c7", -- Barely brightened rose-ash clay (Statements, Errors, Keywords)
    forest_green  = "#729860", -- Tiny lift dry pine green / olive (Strings)
    sand_gold     = "#706e6c", -- Softly lit milk-honey gold (Functions, Labels)
    sky_teal      = "#706e6c", -- Slightly glowing slate pine teal (Types, Structure Tags)
-   blossom_rose  = "#bebdc9", -- Tiny pop of dusty chalky rose (Constants, Numbers)
+   blossom_rose  = "#c4c3c7", -- Tiny pop of dusty chalky rose (Constants, Numbers)
    clay_orange   = "#fce060", -- Softly illuminated sun-bleached orange (Specials, Identifiers)
    water_blue    = "#706e6c", -- Barely brightened lavender-tinted blue (Parameters, Attributes)
   
