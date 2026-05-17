@@ -77,7 +77,7 @@ function M.colorscheme()
     vim.g.colors_name = 'myti'
     
     local set = vim.api.nvim_set_hl
-    
+         
     -- ========================================================================
     -- 1. STANDARD CODE SYNTAX HIGHLIGHT GROUPS
     -- ========================================================================
