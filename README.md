@@ -93,6 +93,12 @@ vim.cmd.colorscheme("myti")
 
 
 
+## Contributions 
+- Any kind of contributions , are most welcome ... 
+- If anyone wants to list their own custom neovim themes holding "Aura" , they can without a second thought ... 
+
+
+
 
 
 
