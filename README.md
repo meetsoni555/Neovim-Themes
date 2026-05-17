@@ -17,7 +17,7 @@ Add the repository to your plugin specification list (usually inside your `plugi
 ```lua
 return {
   {
-    "YOUR_GITHUB_USERNAME/my-themes.nvim",
+    "meetsoni555/Auranal.nvim",
     lazy = false,    -- Load immediately during startup
     priority = 1000, -- Ensure it loads before all other plugins
     config = function()
