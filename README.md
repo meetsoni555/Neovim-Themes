@@ -62,6 +62,7 @@ return {
       -- Activate your preferred theme
       vim.cmd([[colorscheme crackedbones]]) 
       -- Or use: vim.cmd([[colorscheme myti]])
+      --or use: vim.cmd([[colorscheme retneo]])
     end,
   }
 }
@@ -90,11 +91,13 @@ After cloning, open Neovim and switch to the theme manually by running:
 To make it permanent, add this line to the bottom of your main `init.lua`:
 ```lua
 vim.cmd("colorscheme crackedbones")
+vim.cmd("colorscheme retneo")
 ```
 
 ```lua 
 vim.cmd.colorscheme("crackedbones")
 vim.cmd.colorscheme("myti")
+vim.cmd.colorscheme("retneo")
 
 ```
 
