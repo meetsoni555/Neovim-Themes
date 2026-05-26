@@ -7,8 +7,6 @@ A collection of custom, minimal, and high-contrast color schemes for modern Neov
 ---
 
 ## Preview 
----
-
 
 ## **Crackedbones**:  Raw and real  
 
@@ -82,7 +80,7 @@ return {
       -- Activate your preferred theme
       vim.cmd([[colorscheme crackedbones]]) 
       -- Or use: vim.cmd([[colorscheme myti]])
-      --or use: vim.cmd([[colorscheme retneo]])
+      -- Or use: vim.cmd([[colorscheme retneo]])
     end,
   }
 }
