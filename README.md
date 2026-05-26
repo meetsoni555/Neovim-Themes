@@ -31,6 +31,18 @@ A collection of custom, minimal, and high-contrast color schemes for modern Neov
 
 <img width="1366" height="100%" alt="20260517_154721" src="https://github.com/user-attachments/assets/120c280f-8640-4f28-97a7-db85f8a3ff25" />
 
+## Pallete
+
+**Myti**
+
+<img width="1546" height="600" alt="#fce060(1)" src="https://github.com/user-attachments/assets/8c4c281d-c0d0-406c-910b-1f18f26d2728" />
+
+**Crackedbones**
+
+<img width="1546" height="600" alt="#fce060" src="https://github.com/user-attachments/assets/79416f11-1774-436e-af29-6fe1d440b2e9" />
+
+
+
 
 ##  Installation
 
