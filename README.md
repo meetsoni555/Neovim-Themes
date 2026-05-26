@@ -2,34 +2,54 @@
 
 A collection of custom, minimal, and high-contrast color schemes for modern Neovim setups, featuring:
 * **Crackedbones**: A theme for neovim , inspired by the @tsoding's emacs theme . 
-* **myti**: A neovim theme , with a mixture of zenbones's warmness and muted shades , and rose pines's colors .  
+* **myti**: A neovim theme , with a mixture of zenbones's warmness and muted shades , and rose pines's colors .
+* **retneo**: A Retro IBM style neovim theme , for late night coding.
 ---
 
 ## Preview 
 ---
 
 
-* **Crackedbones**:  Raw and real  
+## **Crackedbones**:  Raw and real  
 
 <img width="100%" height="768" alt="20260517_153923" src="https://github.com/user-attachments/assets/717e8f66-ed3a-4563-b95a-653281c2240c" />
 
+<br>
 <img width="100%" height="768" alt="20260517_154320" src="https://github.com/user-attachments/assets/2dcce54a-4af3-409a-8605-3d3b2febe83d" />
+<br>
 
 <img width="1366" height="768" alt="20260517_155042" src="https://github.com/user-attachments/assets/0b5b43ae-74aa-4c62-9c04-864d57dc4471" />
+<br>
 
 <img width="1366" height="768" alt="20260517_154925" src="https://github.com/user-attachments/assets/f9fba608-0144-4934-aefb-ecc3468b9ad7" />
 
 ---
 
-* **myti**: Raw and real
+## **myti**: Raw and real
 
 ---
 
 <img width="1366" height="100%" alt="20260517_154455" src="https://github.com/user-attachments/assets/b0e9c787-c8d7-4cd4-9486-3ad1c3673370" />
+<br>
 
 <img width="1366" height="100%" alt="20260517_154641" src="https://github.com/user-attachments/assets/2646f2f0-b7bd-40c9-a07f-9f9b4bf58268" />
+<br>
 
 <img width="1366" height="100%" alt="20260517_154721" src="https://github.com/user-attachments/assets/120c280f-8640-4f28-97a7-db85f8a3ff25" />
+
+---
+##  **Retneo**: Raw and real
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e9639292-3374-4a32-ab31-219a202bc9dd" />
+<br>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c1f9ef19-9f5b-4dc2-910c-384d55fbefd4" />
+<br>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22742407-979d-4161-bebb-5a7e830a0021" />
+<br>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7c5c5c36-bcb7-468c-9eeb-2fe9d1d87610" />
+
+
+
 
 ## Pallete
 
